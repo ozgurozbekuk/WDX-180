@@ -1,5 +1,5 @@
 {
-  "$schema": "./resources.schema.json",
+  "$schema": "./schemas/resources.schema.json",
   "resources": {
     "how-computers-work-binary-data": {
       "title": "How Computers Work: Binary & Data",
@@ -2914,6 +2914,10 @@
         "html",
         "tutorial"
       ]
+    },
+    "what-is-a-software-post-mortem": {
+      "type": "Blog Post",
+      "identifier": "https://www.freecodecamp.org/news/what-is-a-software-post-mortem/"
     }
   },
   "creators": {}
